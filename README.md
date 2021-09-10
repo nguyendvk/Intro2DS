@@ -9,4 +9,6 @@ This is the final project of the Introduction to Data Science Course
 - data folder: contains dataset for the project
 - imgs folder: contains images for source code
 
+Feel free to give us some questions, any given advice would be appreciated. Thank you!
+
 Peace!
