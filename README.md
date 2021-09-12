@@ -9,6 +9,7 @@ This is the final project of the Introduction to Data Science Course
 - data folder: contains dataset for the project
 - imgs folder: contains images for source code
 ### Directory tree
+```bash
 .
 ├── analysis
 │   ├── FUT.ipynb
@@ -32,7 +33,7 @@ This is the final project of the Introduction to Data Science Course
 │   └── position-defender.jpg
 ├── README.md
 └── requirements.txt
-
+```
 
 Feel free to give us some questions, any given advice would be appreciated. Thank you!
 
